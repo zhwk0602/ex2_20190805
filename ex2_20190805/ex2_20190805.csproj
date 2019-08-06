@@ -179,6 +179,7 @@
     <Content Include="Views\DashBoard\index.cshtml" />
     <Content Include="Views\V1\V1.cshtml" />
     <Content Include="Views\Shared\_Layout2.cshtml" />
+    <Content Include="Views\Shared\_footer.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
